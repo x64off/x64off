@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @x64off
 - 👀 I’m interested in Python,PHP,C# Developing 
-- 🌱 I’m currently learning Golang
 - 📫 How to reach me https://t.me/+k4bIUbT4cOY2YjYy
 
 <!---
